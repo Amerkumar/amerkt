@@ -1,0 +1,4 @@
+baseURL = 'https://amerkumartanwani.web.app'
+languageCode = 'en-us'
+title = 'Amer Kumar Tanwani | Personal Site'
+theme="cupper-hugo-theme"
